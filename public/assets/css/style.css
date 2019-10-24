@@ -1,0 +1,27 @@
+/* ------ FOOTER STYLE --------- */
+
+.footer{
+    background-color: grey;
+    width: 100%;
+    height: 280px;
+}
+
+.footer-section{
+    margin-top: 30px;
+    list-style-type: none;
+}
+
+.intouch{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.social-media-icons {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.rights-reserved{
+    text-align: center;
+}
