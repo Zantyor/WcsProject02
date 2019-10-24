@@ -1,6 +1,6 @@
 /* ------ FOOTER STYLE --------- */
 
-.footer{
+.container-footer{
     background-color: grey;
     width: 100%;
     height: 280px;
@@ -11,17 +11,25 @@
     list-style-type: none;
 }
 
+.logo-sm{
+    margin-left: 10px;
+    width: 30px;
+}
+
 .intouch{
     display: flex;
     justify-content: flex-end;
+    margin-right: 10px;
 }
 
 .social-media-icons {
     display: flex;
     flex-direction: row;
     justify-content: flex-end;
+    margin-right: 10px;
 }
 
 .rights-reserved{
     text-align: center;
 }
+
