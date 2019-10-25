@@ -1,3 +1,36 @@
+/* ------ COLLECTION SECTION --------- */
+
+.container{
+    display: flex;
+}
+
+.collection-picture{
+    margin-left: 16px;
+    margin-bottom: 16px;
+}
+
+.test h2{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.collection-picture:hover, .main-picture:hover{
+    box-shadow: cadetblue 3px 3px 6px;
+}
+
+.title-collection{
+    font-family: 'Lobster', cursive;
+    color: black;
+}
+
+.line {
+    height: 2px;
+    width: 60%;
+    background-color: black;
+    margin-bottom: 16px;
+}
+
 /* ------ FOOTER STYLE --------- */
 
 .container-footer{
